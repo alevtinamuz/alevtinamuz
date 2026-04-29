@@ -3,7 +3,7 @@
 Студентка ДВФУ (2 курс, Прикладная информатика в компьютерном дизайне).  
 Сейчас активно изучаю Python и backend-разработку в Яндекс Практикуме.
 
-- **Backend:** Python, Django, SQL (использовала в проектах)
+- **Backend:** Python, Django, SQL
 - **Frontend:** HTML, CSS, JavaScript
 - **Также немного знаю:** TypeScript, C++, React
 
